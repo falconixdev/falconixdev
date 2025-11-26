@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sheikh 🖖</h1>
+<h1 align="center">Hi, I'm FalconixDev 🖖</h1>
 <h3 align="center">🦄 Coding in heaven, for a sweeter world</h3>
 
 > I'm a developer from India and work as a freelance Android Developer.
@@ -16,12 +16,12 @@
 <h1 align="center">🗂 Projects</h1>
 
 ## 📋 Templates
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=MoviesApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/MoviesApp)
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=Habitly&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/Habitly)
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=MoviesApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/falconixdev/MoviesApp)
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=Habitly&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/falconixdev/Habitly)
 
 
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=YoutubeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/YoutubeApp)
-[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=Newsline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/sheikh-20/newsline)
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=YoutubeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/falconixdev/YoutubeApp)
+[![Boostnote Markdown CheatSheet](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-20&repo=Newsline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/falconixdev/newsline)
 
 ## 🤝 Contributions
-[![Sheikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikh-20&theme=vue)](https://github.com/sheikh-20/github-readme-activity-graph)
+[![FalconixDev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=falconixdev&theme=vue)](https://github.com/falconixdev/github-readme-activity-graph)
