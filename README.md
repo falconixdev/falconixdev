@@ -23,6 +23,52 @@ high-quality products that are built to grow with the business.
 
 <hr/>
 
+<hr/>
+
+<h3>🧠 <b>How I Work</b></h3>
+<p>
+I follow a <b>product-first engineering approach</b>, focusing on understanding the problem
+before writing code. My workflow emphasizes clear requirements, clean architecture,
+and iterative delivery to ensure predictable outcomes.
+</p>
+
+<ul>
+  <li>📌 Requirement analysis & technical planning</li>
+  <li>🧩 Scalable architecture & clean code practices</li>
+  <li>🔄 Agile development with regular updates</li>
+  <li>🧪 Testing, optimization, and production readiness</li>
+</ul>
+
+<hr/>
+
+<h3>🤝 <b>Engagement Models</b></h3>
+<ul>
+  <li>🚀 <b>MVP Development</b> – for startups validating ideas</li>
+  <li>📦 <b>Feature Development</b> – extending existing products</li>
+  <li>🔧 <b>Maintenance & Support</b> – long-term product stability</li>
+  <li>📆 <b>Monthly Contracts</b> – dedicated development partnership</li>
+</ul>
+
+<hr/>
+
+<h3>⭐ <b>Why Work With Me</b></h3>
+<ul>
+  <li>6+ years of real-world mobile development experience</li>
+  <li>Founder mindset — I care about product success, not just code</li>
+  <li>Strong communication & transparent progress</li>
+  <li>Production-focused delivery with long-term maintainability</li>
+</ul>
+
+<hr/>
+
+<h3>📩 <b>Let’s Build Something Great</b></h3>
+<p>
+If you’re a founder, startup, or business looking to build a reliable mobile product,
+feel free to reach out — I’d be happy to discuss your idea.
+</p>
+
+<hr/>
+
 <h3>🏢 <b>Company</b></h3>
 <ul>
   <li>🌐 <b>GitHub</b>: 
