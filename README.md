@@ -11,6 +11,7 @@ high-quality products that are built to grow with the business.
 </p>
 
 <hr/>
+<br/>
 
 <h3>💼 <b>What I Work On</b></h3>
 <ul>
@@ -22,6 +23,7 @@ high-quality products that are built to grow with the business.
 </ul>
 
 <hr/>
+<br/>
 
 <h3>🏢 <b>Company</b></h3>
 <ul>
