@@ -1,4 +1,5 @@
-<h2>👋 Hi, I'm <b>Sheikh Mohideen</b></h2>
+<h2 align="center">👋 Hi, I'm <b>Sheikh Mohideen</b></h2>
+---
 
 <h3>🚀 <b>Founder & Lead Mobile Developer at Falconix Systems</b></h3>
 
