@@ -1,28 +1,45 @@
-## 👋 Hi, I'm **Sheikh Mohideen**
+<h2>👋 Hi, I'm <b>Sheikh Mohideen</b></h2>
 
-### 🚀 **Founder & Lead Mobile Developer at Falconix Systems**
+<h3>🚀 <b>Founder & Lead Mobile Developer at Falconix Systems</b></h3>
 
-I build **production-ready mobile applications and MVPs** for startups and businesses,
-focusing on **clean architecture**, **scalability**, and **long-term maintainability**.
+<p>
+I build <b>production-ready mobile applications and MVPs</b> for startups and businesses,
+focusing on <b>clean architecture</b>, <b>scalability</b>, and <b>long-term maintainability</b>.
+</p>
 
----
+<hr/>
 
-### 💼 **What I Work On**
-- 📱 **Android** (Kotlin, Jetpack Compose)
-- 🍎 **iOS** (Swift, SwiftUI)
-- 🔁 **Flutter & React Native**
-- 🧱 **Clean Architecture, MVVM, SOLID**
-- 🚀 **MVPs for startups & product teams**
+<h3>💼 <b>What I Work On</b></h3>
+<ul>
+  <li>📱 <b>Android</b> (Kotlin, Jetpack Compose)</li>
+  <li>🍎 <b>iOS</b> (Swift, SwiftUI)</li>
+  <li>🔁 <b>Flutter & React Native</b></li>
+  <li>🧱 <b>Clean Architecture, MVVM, SOLID</b></li>
+  <li>🚀 <b>MVPs for startups & product teams</b></li>
+</ul>
 
----
+<hr/>
 
-### 🏢 **Company**
-- 🌐 **GitHub**: https://github.com/Falconix-Systems  
-- 📧 **Email**: contact@falconixsystems.com
+<h3>🏢 <b>Company</b></h3>
+<ul>
+  <li>🌐 <b>GitHub</b>: 
+    <a href="https://github.com/Falconix-Systems" target="_blank">
+      https://github.com/Falconix-Systems
+    </a>
+  </li>
+  <li>📧 <b>Email</b>: 
+    <a href="mailto:contact@falconixsystems.com">
+      contact@falconixsystems.com
+    </a>
+  </li>
+</ul>
 
----
+<hr/>
 
-✨ I enjoy turning **ideas into real products** that users love and businesses can scale.
+<p>
+✨ I enjoy turning <b>ideas into real products</b> that users love and businesses can scale.
+</p>
+
 
 <img alt="FalconixDev's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=falconixdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
