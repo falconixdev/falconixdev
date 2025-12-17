@@ -1,7 +1,7 @@
-<h2 align="center">👋 Hi, I'm <b>Sheikh Mohideen</b></h2>
+<h1 align="center">👋 Hi, I'm <b>Sheikh Mohideen</b></h1>
 
 
-<h3>🚀 <b>Founder & Lead Mobile Developer at Falconix Systems</b></h3>
+<h2>🚀 <b>Founder & Lead Mobile Developer at Falconix Systems</b></h2>
 
 <p>
 I build <b>production-ready mobile applications and MVPs</b> for startups and businesses,
