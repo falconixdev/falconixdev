@@ -1,14 +1,23 @@
-<h1 align="center">Hi, I'm FalconixDev 🖖</h1>
-<h3 align="center">🦄 Coding in heaven, for a sweeter world</h3>
+## Hi, I'm Sheikh Mohideen 👋  
+**Founder & Lead Mobile Developer at Falconix Systems 🚀**
 
-> I'm a developer from India and work as a freelance Android Developer.
-> I still solve many problems with Java, but as a Kotlin fanboy to spread this K-Virus and the idea of clean & colorful software engineering.
-> I build mobile apps in Kotlin language with Jetpack Compose, with clean architecture and the SOLID principle to ensure the colorful software engineering.
-> I'm happy to be a part of a great developer community where sharing is caring.
+I build production-ready mobile applications and MVPs for startups and businesses,
+focusing on clean architecture, scalability, and long-term maintainability.
 
-> Apart from coding, I like reading history books, exploring techstack, having chats in the evenings with friends and playing computer games.
-> As corona limited a few outdoor hobbies, I also bought myself a 3D printer which I feed with plastic and construction plans.
+### 💼 What I Work On
+- 📱 Android (Kotlin, Jetpack Compose)
+- 🍎 iOS (Swift, SwiftUI)
+- 🔁 Flutter & React Native
+- 🧱 Clean Architecture, MVVM, SOLID
+- 🚀 MVPs for startups & product teams
 
+### 🏢 Company
+- 🌐 GitHub: https://github.com/Falconix-Systems
+- 📧 Email: contact@falconixsystems.com
+
+I enjoy turning ideas into real products that users love and businesses can scale.
+
+---
 
 <img alt="FalconixDev's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=falconixdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
