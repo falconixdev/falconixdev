@@ -1,23 +1,28 @@
-## Hi, I'm Sheikh Mohideen 👋  
-**Founder & Lead Mobile Developer at Falconix Systems 🚀**
+## 👋 Hi, I'm **Sheikh Mohideen**
 
-I build production-ready mobile applications and MVPs for startups and businesses,
-focusing on clean architecture, scalability, and long-term maintainability.
+### 🚀 **Founder & Lead Mobile Developer at Falconix Systems**
 
-### 💼 What I Work On
-- 📱 Android (Kotlin, Jetpack Compose)
-- 🍎 iOS (Swift, SwiftUI)
-- 🔁 Flutter & React Native
-- 🧱 Clean Architecture, MVVM, SOLID
-- 🚀 MVPs for startups & product teams
-
-### 🏢 Company
-- 🌐 GitHub: https://github.com/Falconix-Systems
-- 📧 Email: contact@falconixsystems.com
-
-I enjoy turning ideas into real products that users love and businesses can scale.
+I build **production-ready mobile applications and MVPs** for startups and businesses,
+focusing on **clean architecture**, **scalability**, and **long-term maintainability**.
 
 ---
+
+### 💼 **What I Work On**
+- 📱 **Android** (Kotlin, Jetpack Compose)
+- 🍎 **iOS** (Swift, SwiftUI)
+- 🔁 **Flutter & React Native**
+- 🧱 **Clean Architecture, MVVM, SOLID**
+- 🚀 **MVPs for startups & product teams**
+
+---
+
+### 🏢 **Company**
+- 🌐 **GitHub**: https://github.com/Falconix-Systems  
+- 📧 **Email**: contact@falconixsystems.com
+
+---
+
+✨ I enjoy turning **ideas into real products** that users love and businesses can scale.
 
 <img alt="FalconixDev's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=falconixdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
