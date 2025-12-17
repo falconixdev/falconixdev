@@ -23,8 +23,6 @@ high-quality products that are built to grow with the business.
 
 <hr/>
 
-<hr/>
-
 <h3>🧠 <b>How I Work</b></h3>
 <p>
 I follow a <b>product-first engineering approach</b>, focusing on understanding the problem
