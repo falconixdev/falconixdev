@@ -5,6 +5,9 @@
 <p>
 I build <b>production-ready mobile applications and MVPs</b> for startups and businesses,
 focusing on <b>clean architecture</b>, <b>scalability</b>, and <b>long-term maintainability</b>.
+<br/><br/>
+I help teams take ideas from <b>concept to launch</b>, delivering reliable,
+high-quality products that are built to grow with the business.
 </p>
 
 <hr/>
