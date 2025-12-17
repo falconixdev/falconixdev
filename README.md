@@ -43,6 +43,8 @@ high-quality products that are built to grow with the business.
 ✨ I enjoy turning <b>ideas into real products</b> that users love and businesses can scale.
 </p>
 
+<hr/>
+
 
 <img alt="FalconixDev's GitHub Stats" width="495px" src="https://github-readme-stats.vercel.app/api?username=falconixdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
